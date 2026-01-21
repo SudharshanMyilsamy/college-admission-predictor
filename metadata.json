@@ -1,0 +1,5 @@
+{
+  "name": "Coimbatore College Guidance",
+  "description": "A smart recommendation engine for colleges in Coimbatore based on academic profile and interests.",
+  "requestFramePermissions": []
+}
